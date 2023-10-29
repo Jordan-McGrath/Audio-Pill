@@ -21,7 +21,7 @@ Audio Pill is built using the following technologies:
 	•	HTML5 and CSS3
 	•	JavaScript (ES6+)
 	•	Bootstrap 4
-  •	Axios
+  	*	Axios
  
 ###	Backend:
 
