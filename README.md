@@ -27,16 +27,16 @@ Audio Pill is built using the following technologies:
 
 	•	Java
 	•	Apache Tomcat 9
-  •	Maven
+  	*	Maven
 
  ###	Web Services:
 
 	•	AWS Aurora (MySQL Database)
 	•	AWS Lambda
-  •	AWS S3
-	•	AWS Elastic Beanstalk
-  •	AWS Cloudfront
-	•	AWS IAMS
+  	*	AWS S3
+	*	AWS Elastic Beanstalk
+  	*	AWS Cloudfront
+	*	AWS IAMS
 
 
 ## License
