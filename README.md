@@ -21,22 +21,22 @@ Audio Pill is built using the following technologies:
 	•	HTML5 and CSS3
 	•	JavaScript (ES6+)
 	•	Bootstrap 4
-  	*	Axios
+  	•	Axios
  
 ###	Backend:
 
 	•	Java
 	•	Apache Tomcat 9
-  	*	Maven
+  	•	Maven
 
  ###	Web Services:
 
 	•	AWS Aurora (MySQL Database)
 	•	AWS Lambda
-  	*	AWS S3
-	*	AWS Elastic Beanstalk
-  	*	AWS Cloudfront
-	*	AWS IAMS
+  	•	AWS S3
+	•	AWS Elastic Beanstalk
+  	•	AWS Cloudfront
+	•	AWS IAMS
 
 
 ## License
